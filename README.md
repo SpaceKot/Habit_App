@@ -12,7 +12,6 @@
 ### 📚 Course Project Overview
 
 Project completed as part of **"JavaScript from scratch - Language basics and practice for begin"**
-by Anton Larichev on Stepik
 
 ---
 
